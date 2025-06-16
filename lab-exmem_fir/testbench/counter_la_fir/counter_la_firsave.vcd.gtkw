@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Apr  7 13:46:07 2025
+[*]
+[dumpfile] "/media/sf_share/lab-exmem_fir/testbench/counter_la_fir/counter_la_fir.vcd"
+[dumpfile_mtime] "Mon Apr  7 13:30:24 2025"
+[dumpfile_size] 128680497
+[savefile] "/media/sf_share/lab-exmem_fir/testbench/counter_la_fir/counter_la_firsave.vcd.gtkw"
+[timestart] 123141900
+[size] 1848 877
+[pos] -51 -51
+*-17.216999 123637500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] counter_la_fir_tb.
+[treeopen] counter_la_fir_tb.uut.
+[treeopen] counter_la_fir_tb.uut.housekeeping.
+[treeopen] counter_la_fir_tb.uut.mprj.
+[treeopen] counter_la_fir_tb.uut.mprj.mprj.
+[treeopen] counter_la_fir_tb.uut.padframe.
+[treeopen] counter_la_fir_tb.uut.padframe.mprj_pads.
+[treeopen] counter_la_fir_tb.uut.soc.core.
+[sst_width] 233
+[signals_width] 268
+[sst_expanded] 1
+[sst_vpaned_height] 240
+@28
+counter_la_fir_tb.uut.housekeeping.wb_clk_i
+counter_la_fir_tb.uut.mprj.wbs_stb_i
+counter_la_fir_tb.uut.mprj.wbs_cyc_i
+counter_la_fir_tb.uut.mprj.wbs_we_i
+@22
+counter_la_fir_tb.uut.mprj.wbs_sel_i[3:0]
+counter_la_fir_tb.uut.mprj.wbs_dat_i[31:0]
+counter_la_fir_tb.uut.mprj.wbs_adr_i[31:0]
+@28
+counter_la_fir_tb.uut.mprj.wbs_ack_o
+@22
+counter_la_fir_tb.uut.mprj.wbs_dat_o[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
